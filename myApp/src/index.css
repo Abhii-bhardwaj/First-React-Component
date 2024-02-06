@@ -1,0 +1,83 @@
+/* /* .card img {
+  height: 180px;
+  width: 180px;
+  border-radius: 50%;
+  margin-bottom: 0px;
+  box-shadow: 8px 11px 12px rgba(0, 0, 0, 0.5);
+}
+
+.card {
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 5%;
+  box-shadow: 4px 8px 12px rgba(0, 0, 0, 0.5);
+  padding: 25px;
+  width: 230px;
+  background-color: grey;
+  color: white;
+  cursor: pointer;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+.card p {
+  box-shadow: 8px 6px 1px rgba(81, 78, 78, 0.027);
+} */
+
+/* .btn {
+  background: rgb(40, 122, 195);
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 1.6rem;
+} */
+
+/* .student {
+  color: black;
+  font-size: 1.5em;
+  font-weight: 600;
+  font-family: Arial, sans-serif;
+  border: 1px solid hsla(0, 0%, 50%, 0.8);
+  padding: 5px;
+  box-sizing: border-box;
+  /* margin: 10px 5px; */
+
+/* .welcome-message {
+  border: 1px solid hsla(60, 1%, 32%, 0.953);
+  background-color: hsl(111, 97%, 47%);
+  padding: 15px;
+  border-radius: 0.5em;
+}
+
+.login-prompt {
+  border: 1px solid hsla(60, 1%, 32%, 0.953);
+  background-color: hsl(0, 97%, 47%);
+  padding: 15px;
+  border-radius: 0.5em;
+} */
+/* 
+.list-category {
+  font-size: 2em;
+  font-weight: 500;
+  color: hsla(0, 0%, 20%);
+  border: 3px solid black;
+  text-align: center;
+  border-radius: 0.5em;
+  background-color: hsl(185, 100%, 50%);
+}
+
+.list-items {
+  font-size: 1.5em;
+  list-style: none;
+  color: hsl(0, 0%, 25%);
+  text-align: center;
+  margin: 0;
+}
+
+.list-items li:hover {
+  cursor: pointer;
+  color: hsl(0, 0%, 45%);
+} */

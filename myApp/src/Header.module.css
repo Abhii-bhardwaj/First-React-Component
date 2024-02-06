@@ -1,0 +1,52 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+
+.Header {
+  margin-top: 1em;
+  display: flex;
+  flex-direction: row;
+  border-bottom: 2px solid hsl(0, 0%, 80%);
+}
+
+.ProfilePic > img {
+  height: 2.8em;
+  width: 2.8em;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.username {
+  margin-left: 0.3rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 0.9rem;
+}
+.username_name {
+  font-size: 0.68rem;
+  font-weight: 500;
+  color: black;
+}
+.username_post {
+  font-size: 0.45rem;
+  color: hsl(0, 0%, 50%);
+}
+
+.combo {
+  display: flex;
+  flex-direction: row;
+}
+
+.follow {
+  margin: auto;
+  margin-left: 6em;
+}
+.menu {
+  margin: auto;
+  margin-right: 1em;
+}
